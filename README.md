@@ -262,6 +262,51 @@ They helped strengthen understanding of:
 * AI application deployment
 
 
+# Project 3 – Netflix Data Visualization Dashboard | Power BI
+
+## Project Overview
+
+This project presents an interactive Netflix Data Visualization Dashboard built using Power BI. The objective is to analyze Netflix's content library and uncover meaningful insights through visual analytics.
+
+The dashboard transforms raw Netflix dataset information into interactive and easy-to-understand visualizations, enabling users to explore trends, patterns, and key performance indicators efficiently.
+
+## Key Features
+
+* Interactive Power BI Dashboard
+* Dynamic filtering and slicers
+* Netflix Movies vs TV Shows analysis
+* Content distribution by country
+* Genre-wise content analysis
+* Rating and maturity classification insights
+* Release year trend analysis
+* Data-driven visual storytelling
+* User-friendly and responsive dashboard design
+
+## Business Insights
+
+* Understand the growth of Netflix content over time.
+* Analyze the balance between Movies and TV Shows.
+* Identify countries contributing the most content.
+* Discover popular genres and content categories.
+* Examine content ratings and audience targeting.
+* Explore trends in content releases across different years.
+
+## Tools & Technologies
+
+* Power BI
+* Data Visualization
+* Data Cleaning & Transformation
+* DAX Measures
+* Interactive Dashboards
+
+## Dataset
+
+Netflix Titles Dataset containing information about movies and TV shows available on Netflix, including title, country, release year, genre, rating, and content type.
+
+## Project Outcome
+
+The dashboard enables users to quickly identify content trends, compare categories, and gain valuable insights through interactive visual exploration, demonstrating practical skills in data analytics and business intelligence.
+
 # Author
 
 Dharshini Rajasekaran
