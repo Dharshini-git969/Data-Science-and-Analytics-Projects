@@ -1,4 +1,4 @@
-# AI & Machine Learning Projects Portfolio
+# Artificial Intelligence & Machine Learning Projects Portfolio
 
 This repository contains three machine learning and AI-based projects developed using Python, TensorFlow, Streamlit, and Stable Diffusion. These projects demonstrate practical implementations of Deep Learning, Computer Vision, Generative AI, and Data Analysis concepts.
 
